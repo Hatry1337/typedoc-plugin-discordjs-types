@@ -1,0 +1,26 @@
+{
+    "name": "typedoc-plugin-discordjs-types",
+    "version": "1.0.3",
+    "description": "A TypeDoc plugin that creates links to Discord.js documentation.",
+    "main": "./dist/index.js",
+    "scripts": {
+        "build": "tsc",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": "https://github.com/Hatry1337/typedoc-plugin-discordjs-types",
+    "author": "Hatry1337",
+    "license": "MIT",
+    "keywords": [
+        "typedocplugin",
+        "typedoc-plugin"
+    ],
+    "devDependencies": {
+        "typedoc": "^0.22.13"
+    },
+    "peerDependencies": {
+        "typedoc": "0.22.x"
+    },
+    "dependencies": {
+        "node-fetch": "^2.6.1"
+    }
+}
