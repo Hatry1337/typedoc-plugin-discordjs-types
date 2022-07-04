@@ -1,6 +1,6 @@
 {
     "name": "typedoc-plugin-discordjs-types",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "A TypeDoc plugin that creates links to Discord.js documentation.",
     "main": "./dist/index.js",
     "scripts": {
