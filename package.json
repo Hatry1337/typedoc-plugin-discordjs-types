@@ -17,9 +17,6 @@
     "devDependencies": {
         "typedoc": "^0.22.13"
     },
-    "peerDependencies": {
-        "typedoc": "0.22.x"
-    },
     "dependencies": {
         "node-fetch": "^2.6.1"
     }
